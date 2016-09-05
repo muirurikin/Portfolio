@@ -67,12 +67,6 @@ a {
     opacity: 0.;
     font-weight: bold;
 }
-.btn:hover {
-    opacity: 1.0;
-    font-weight: bold;
-    background-color: whitesmoke;
-    color: black;
-}
 .h1 {
     font-size: 80px;
 }
